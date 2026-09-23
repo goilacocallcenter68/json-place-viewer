@@ -1,0 +1,6 @@
+{
+  "name": "JSON Place Viewer",
+  "description": "Trình hiển thị dữ liệu địa điểm và nhà hàng từ file JSON với đầy đủ thông tin chi tiết, hình ảnh, đánh giá và tiện ích.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
